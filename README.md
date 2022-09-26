@@ -11,9 +11,8 @@ Projeto Lógico E-commerce - Bootcamp Database Expericence DIO
 * Link Projeto Conceitual: [Projeto Conceitual ER E-commerce](https://github.com/jesreel/diobootcamp-er-ecommerce)
 <br><br>
 
-## SQL Criaçã das Tabelas
+## SQL Criação das Tabelas
 > Link arquivo SQL Criação das tabelas: [SQL Tabelas](sql-tabelas-e-commerce.sql)
-
 <br><br>
 
 ## SQL Consultas
