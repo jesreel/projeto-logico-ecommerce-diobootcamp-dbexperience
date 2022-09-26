@@ -12,7 +12,7 @@ Projeto Lógico E-commerce - Bootcamp Database Expericence DIO
 <br><br>
 
 ## SQL Criaçã das Tabelas
-> Link arquivo SQL Criação das tabelas: [SQL Tabelas](projeto-ecommerce-logico.sql)
+> Link arquivo SQL Criação das tabelas: [SQL Tabelas](sql-tabelas-e-commerce.sql)
 <br><br>
 
 ## SQL Consultas
